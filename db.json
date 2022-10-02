@@ -27,17 +27,7 @@
           }
         },
         "email": "riganjack40@gmail.com",
-        "login": {
-          "uuid": "7a0eed16-9430-4d68-901f-c0d4c1c3bf00",
-          "username": "yellowpeacock117",
-          "password": "addison",
-          "salt": "sld1yGtd",
-          "md5": "ab54ac4c0be9480ae8fa5e9e2a5196a3",
-          "sha1": "edcf2ce613cbdea349133c52dc2f3b83168dc51b",
-          "sha256": "48df5229235ada28389b91e60a935e4f9b73eb4bdb855ef9258a1751f10bdc5d"
-        },
         "dob": {
-          "date": "1992-03-08T15:13:16.688Z",
           "age": 21
         },
    
@@ -48,9 +38,149 @@
           "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
           "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
         },
-        "nat": "US"
+        "nat": "NOR"
       },
       
+
+
+
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Bjoern",
+          "last": "Rigan"
+        },
+        "location": {
+          "street": {
+            "address":"672n 200w" ,
+            "apartment": "true",
+            "apartment_number": "3"
+          },
+          "city": "Salt Lake City",
+          "state": "Utah",
+          "country": "United States",
+          "postcode": "84103",
+          "coordinates": {
+            "latitude": "-69.8246",
+            "longitude": "134.8719"
+          },
+          "timezone": {
+            "offset": "+9:30",
+            "description": "Mountain Time"
+          }
+        },
+        "email": "riganbjorn@gmail.com",
+        "dob": {
+          "age": 21
+        },
+   
+        "phone": "(801) 441-9439",
+        "cell": "(801) 441-9439",
+        "nat": "NOR"
+      },
+
+
+
+
+
+
+
+
+
+
+
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Cameron",
+          "last": "Jensen"
+        },
+        "location": {
+          "street": {
+            "address":"672n 200w" ,
+            "apartment": "true",
+            "apartment_number": "3"
+          },
+          "city": "Salt Lake City",
+          "state": "Utah",
+          "country": "United States",
+          "postcode": "84103",
+          "coordinates": {
+            "latitude": "-69.8246",
+            "longitude": "134.8719"
+          },
+          "timezone": {
+            "offset": "+9:30",
+            "description": "Mountain Time"
+          }
+        },
+        "email": "cameronjj@gmail.com",
+        "dob": {
+          "age": 21
+        },
+   
+        "phone": "(385) 498-3913",
+        "cell": "(385) 498-3913",
+        "nat": "US"
+      },
+
+
+
+
+
+
+
+
+
+
+      {
+        "gender": "male",
+        "name": {
+          "title": "Mr",
+          "first": "Adryn",
+          "last": "Archueleta"
+        },
+        "location": {
+          "street": {
+            "address":"672n 200w" ,
+            "apartment": "true",
+            "apartment_number": "1"
+          },
+          "city": "Salt Lake City",
+          "state": "Utah",
+          "country": "United States",
+          "postcode": "84103",
+          "coordinates": {
+            "latitude": "-69.8246",
+            "longitude": "134.8719"
+          },
+          "timezone": {
+            "offset": "+9:30",
+            "description": "Mountain Time"
+          }
+        },
+        "dob": {
+          "age": 23
+        },
+   
+        "phone": "(801)-348-5699",
+        "cell": "(801)-348-5699",
+        "nat": "US"
+      },
+
+
+
+
+
+
+
+
+
+
+
+
 
       {
         "gender": "male",
@@ -78,190 +208,15 @@
             "description": "Mountain Time"
           }
         },
-        "email": "estebansuarez1900@gmail.com",
+        "email": "estebansuarez012@gmail.com",
         "dob": {
           "date": "1992-03-08T15:13:16.688Z",
           "age": 23
         },
    
-        "phone": "(801) 761-9862",
-        "cell": "(801) 761-9862",
-        "picture": {
-          "large": "https://randomuser.me/api/portraits/men/75.jpg",
-          "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
-          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
-        },
-        "nat": "US"
-      },
-
-
-      {
-        "gender": "male",
-        "name": {
-          "title": "Mr",
-          "first": "Bjoern",
-          "last": "Rigan"
-        },
-        "location": {
-          "street": {
-            "address":"672n 200w" ,
-            "apartment": "true",
-            "apartment_number": "3"
-          },
-          "city": "Salt Lake City",
-          "state": "Utah",
-          "country": "United States",
-          "postcode": "84103",
-          "coordinates": {
-            "latitude": "-69.8246",
-            "longitude": "134.8719"
-          },
-          "timezone": {
-            "offset": "+9:30",
-            "description": "Mountain Time"
-          }
-        },
-        "email": "estebansuarez1900@gmail.com",
-        "dob": {
-          "date": "1992-03-08T15:13:16.688Z",
-          "age": 23
-        },
-   
-        "phone": "(801) 441-9433",
-        "cell": "(801) 441-9433",
-        "picture": {
-          "large": "https://randomuser.me/api/portraits/men/75.jpg",
-          "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
-          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
-        },
-        "nat": "US"
-      },
-
-      {
-        "gender": "male",
-        "name": {
-          "title": "Mr",
-          "first": "Cameron",
-          "last": "Jensen"
-        },
-        "location": {
-          "street": {
-            "address":"672n 200w" ,
-            "apartment": "true",
-            "apartment_number": "3"
-          },
-          "city": "Salt Lake City",
-          "state": "Utah",
-          "country": "United States",
-          "postcode": "84103",
-          "coordinates": {
-            "latitude": "-69.8246",
-            "longitude": "134.8719"
-          },
-          "timezone": {
-            "offset": "+9:30",
-            "description": "Mountain Time"
-          }
-        },
-        "email": "cameronjj@gmail.com",
-        "dob": {
-          "date": "1992-03-08T15:13:16.688Z",
-          "age": 23
-        },
-   
-        "phone": "(385) 498-3913",
-        "cell": "(385) 498-3913",
-        "picture": {
-          "large": "https://randomuser.me/api/portraits/men/75.jpg",
-          "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
-          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
-        },
-        "nat": "US"
-      },
-
-
-      {
-        "gender": "male",
-        "name": {
-          "title": "Mr",
-          "first": "Bjoern",
-          "last": "Rigan"
-        },
-        "location": {
-          "street": {
-            "address":"672n 200w" ,
-            "apartment": "true",
-            "apartment_number": "3"
-          },
-          "city": "Salt Lake City",
-          "state": "Utah",
-          "country": "United States",
-          "postcode": "84103",
-          "coordinates": {
-            "latitude": "-69.8246",
-            "longitude": "134.8719"
-          },
-          "timezone": {
-            "offset": "+9:30",
-            "description": "Mountain Time"
-          }
-        },
-        "email": "estebansuarez1900@gmail.com",
-        "dob": {
-          "date": "1992-03-08T15:13:16.688Z",
-          "age": 23
-        },
-   
-        "phone": "(801) 441-9433",
-        "cell": "(801) 441-9433",
-        "picture": {
-          "large": "https://randomuser.me/api/portraits/men/75.jpg",
-          "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
-          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
-        },
-        "nat": "US"
-      },
-
-      {
-        "gender": "male",
-        "name": {
-          "title": "Mr",
-          "first": "Cameron",
-          "last": "Jensen"
-        },
-        "location": {
-          "street": {
-            "address":"672n 200w" ,
-            "apartment": "true",
-            "apartment_number": "3"
-          },
-          "city": "Salt Lake City",
-          "state": "Utah",
-          "country": "United States",
-          "postcode": "84103",
-          "coordinates": {
-            "latitude": "-69.8246",
-            "longitude": "134.8719"
-          },
-          "timezone": {
-            "offset": "+9:30",
-            "description": "Mountain Time"
-          }
-        },
-        "email": "cameronjj@gmail.com",
-        "dob": {
-          "date": "1992-03-08T15:13:16.688Z",
-          "age": 23
-        },
-   
-        "phone": "(385) 498-3913",
-        "cell": "(385) 498-3913",
-        "picture": {
-          "large": "https://randomuser.me/api/portraits/men/75.jpg",
-          "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
-          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
-        },
-        "nat": "US"
+        "phone": "(801)-718-8571",
+        "cell": "(801)-718-8571",
+        "nat": "MX"
       },
 
 
@@ -306,7 +261,86 @@
           "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
         },
         "nat": "US"
+      },
+
+
+
+
+
+      {
+        "gender": "female",
+        "name": {
+          "title": "Ms",
+          "first": "Vanessa",
+          "last": "Muir"
+        },
+        "location": {
+          "street": {
+            "address":"672n 200w" ,
+            "apartment": "true",
+            "apartment_number": "1"
+          },
+          "city": "Salt Lake City",
+          "state": "Utah",
+          "country": "United States",
+          "postcode": "84103",
+          "coordinates": {
+            "latitude": "-69.8246",
+            "longitude": "134.8719"
+          },
+          "timezone": {
+            "offset": "+9:30",
+            "description": "Mountain Time"
+          }
+        },
+        "email": "vmuir23@gmail.com",
+        "dob": {
+          "date": "1992-03-08T15:13:16.688Z",
+          "age": 25
+        },
+   
+        "phone": "(385) 555 0125",
+        "cell": "(385) 555 0125",
+        "nat": "US"
+      },
+
+      {
+        "gender": "Male",
+        "name": {
+          "title": "Mr",
+          "first": "Josue",
+          "last": "Goncalo"
+        },
+        "location": {
+          "street": {
+            "address":"672n 200w" ,
+            "apartment": "true",
+            "apartment_number": "1"
+          },
+          "city": "Salt Lake City",
+          "state": "Utah",
+          "country": "United States",
+          "postcode": "84103",
+          "coordinates": {
+            "latitude": "-69.8246",
+            "longitude": "134.8719"
+          },
+          "timezone": {
+            "offset": "+9:30",
+            "description": "Mountain Time"
+          }
+        },
+        "email": "angeljimenezNN@gmail..com",
+        "dob": {
+          "age": 28
+        },
+   
+        "phone": "(801) 887-3987",
+        "cell": "(801) 887-3987",
+     
+        "nat": "US"
       }
+
       
 
 
